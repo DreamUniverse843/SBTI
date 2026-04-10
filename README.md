@@ -4,4 +4,4 @@
 
 基于 Blilbili[@蛆肉儿串儿](https://space.bilibili.com/417038183) 的开源分流镜像。
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116371081925898&bvid=BV1LpDHByET6&cid=37349032287&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://www.bilibili.com/video/BV1LpDHByET6/?spm_id_from=333.1387.homepage.video_card.click)
